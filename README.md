@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Hybrid Connect - Healthcare Monitoring System
 
 A comprehensive mobile healthcare monitoring application for chronic disease patients, built with Flutter and Node.js.
@@ -260,3 +261,6 @@ Built for healthcare innovation and chronic disease management.
 ---
 
 **Note**: This is a prototype for demonstration purposes. For production use, implement additional security measures, HIPAA compliance, and proper medical data handling protocols.
+=======
+# Imperium
+>>>>>>> 781adcfb700d5c161ac9287ddc78059d73bcad19
