@@ -3,7 +3,7 @@
 
 A comprehensive mobile healthcare monitoring application for chronic disease patients, built with Flutter and Node.js.
 
-## 🎯 Problem Statement
+## 🎯 Problem Statements
 
 Patients with chronic conditions (Diabetes, Renal Failure, TB, Thyroid, Substance Abuse) require continuous monitoring. However, constant physical hospital visits:
 - Expose vulnerable patients to infections
